@@ -1,5 +1,6 @@
 # magic
 Customized Python tool to extract administrator password in Portsigger Academy 
+
 Lab: Exploiting NoSQL injection to extract data
 # Installation 
 ```
