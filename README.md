@@ -10,4 +10,4 @@ python3 run.py
 Please enusre that You already installed (requests - argparser - bs4 ) python packages 
 
 # usage 
-python3 run.py --url <url-here>
+```python3 run.py --url <url-here>```
