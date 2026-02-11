@@ -8,7 +8,7 @@ wordlist=string.ascii_lowercase
 
 parser=argparse.ArgumentParser(prog="Portsiwgger - Exploiting NoSQL injection to extract data")
 parser.add_argument("-u","--url",required=True)
-arg=parser.parse_args(["-u","https://0a8800c903ac102c817761d500fd00ea.web-security-academy.net"])
+arg=parser.parse_args()
 
 session=requests.Session()
 
