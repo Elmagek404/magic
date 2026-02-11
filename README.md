@@ -1,2 +1,7 @@
-# Portswigger---Exploiting-NoSQL-injection-to-extract-data
-Python tool customized to extract administrator password in Portsigger Academy Lap 
+# magic
+# Installation 
+```
+git clone https://github.com/Elmagek404/magic
+cd magic
+python3 run.py
+```
