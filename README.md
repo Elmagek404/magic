@@ -1,5 +1,6 @@
 # magic
-Customized Python tool to extract administrator password in Portsigger Academy - Nosql injection Lab Number (3)
+Customized Python tool to extract administrator password in Portsigger Academy 
+Lab: Exploiting NoSQL injection to extract data
 # Installation 
 ```
 git clone https://github.com/Elmagek404/magic
